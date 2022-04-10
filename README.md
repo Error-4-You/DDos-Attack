@@ -49,7 +49,7 @@ $ ```` pkg install python ````
 
 $ ```` pkg install git ````
 
-$ ```` git clone https://github.com/Error-4-You/X-Whatsapp ````
+$ ```` https://github.com/Error-4-You/DDos-Attack ````
 
 $ ```` cd X-Whatsapp ````
 
