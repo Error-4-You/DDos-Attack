@@ -27,3 +27,9 @@
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
 </p>
 
+## ABOUT:
+
+Simple Slack webhook for posting notifications about upcoming seminars
+
+## LICENSE:
+This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
