@@ -36,3 +36,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
+
