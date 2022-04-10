@@ -51,6 +51,6 @@ $ ```` pkg install git ````
 
 $ ```` https://github.com/Error-4-You/DDos-Attack ````
 
-$ ```` cd X-Whatsapp ````
+$ ```` cd DDos-Attack ````
 
-$ ````python Ha4k.py ````
+$ ````chmod +x ddos-attack.py ````
