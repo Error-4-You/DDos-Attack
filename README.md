@@ -54,3 +54,5 @@ $ ```` https://github.com/Error-4-You/DDos-Attack ````
 $ ```` cd DDos-Attack ````
 
 $ ````chmod +x ddos-attack.py ````
+
+$ ````chmod +x ddos-attack.py ````
