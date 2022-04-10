@@ -55,4 +55,4 @@ $ ```` cd DDos-Attack ````
 
 $ ````chmod +x ddos-attack.py ````
 
-$ ````chmod +x ddos-attack.py ````
+$ ````python ddos-attack.py ````
